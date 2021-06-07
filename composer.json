@@ -1,0 +1,14 @@
+{
+    "name": "alfredo/base-class",
+    "description": "Clases bases para el proyecto baseCode.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfredo",
+            "email": "alfredosiiilva@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
