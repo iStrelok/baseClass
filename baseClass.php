@@ -11,7 +11,7 @@ class ClaseBase
 
 	function __construct()
 	{		
-		$this->set();
+		$this->setDatos();
 
 		$this->_objRender = new RenderizarInterfaz(
 			$this->_rutaInterfaz = dirname(__DIR__, 1).'/Vistas/Vista.php',
